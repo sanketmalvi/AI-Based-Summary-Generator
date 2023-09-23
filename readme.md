@@ -1,6 +1,6 @@
 # AI Based Summary Generator - Summarize It Up Using AI
 
-Welcome to the AI Based Summary Generator Webapp, a project created by Swati Malvi. This web application is built using React.js, styled with Tailwind CSS, utilizes Redux for state management and OpenAI API for providing gist of the website using their links. The main purpose of this web app is to showcase the capabilities of generative artificial intelligence.
+Welcome to the AI Based Summary Generator Webapp, a project created by Sanket Malvi. This web application is built using React.js, styled with Tailwind CSS, utilizes Redux for state management and OpenAI API for providing gist of the website using their links. The main purpose of this web app is to showcase the capabilities of generative artificial intelligence.
 
 ## About the WebApp
 
@@ -12,4 +12,4 @@ Welcome to the AI Based Summary Generator Webapp, a project created by Swati Mal
 
 ## About the Creator
 
-The SumItUpAI WebApp is brought to you by Swati Malvi, a passionate developer with a keen interest in artificial intelligence and web technologies. SWati's dedication to creating innovative and engaging projects is showcased in this web app.
+The SumItUpAI WebApp is brought to you by Sanket Malvi, a passionate developer with a keen interest in artificial intelligence and web technologies. Sanket's dedication to creating innovative and engaging projects is showcased in this web app.
